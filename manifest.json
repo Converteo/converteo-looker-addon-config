@@ -1,0 +1,8 @@
+{
+    "name": "RadarChart",
+    "description": "Graphique radar Plotly personnalisé pour Looker Studio",
+    "scripts": ["script.js"],
+    "style": ["style.css"],
+    "dataSourceRequired": true
+  }
+  
